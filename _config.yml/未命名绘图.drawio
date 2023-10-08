@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-08T16:16:03.138Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="jzg3zYPhb3k19CmZjAUC" version="22.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-08T16:18:01.821Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="cQs9OG6vVoJQ1yKY1RVs" version="22.0.4" type="github">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
     <mxGraphModel dx="954" dy="537" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -16,7 +16,7 @@
         <mxCell id="eJ8lgUgesERh-Eou_Fsk-6" value="修改订单价格" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="dNxyNK7c78bLwvsdeMH5-20" vertex="1">
           <mxGeometry x="140" y="45" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="eJ8lgUgesERh-Eou_Fsk-11" value="后台补单&lt;br&gt;输入UUID，套餐ID 创建订单" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" parent="dNxyNK7c78bLwvsdeMH5-20" vertex="1">
+        <mxCell id="eJ8lgUgesERh-Eou_Fsk-11" value="后管补单&lt;br&gt;输入UUID，套餐ID 创建订单" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" parent="dNxyNK7c78bLwvsdeMH5-20" vertex="1">
           <mxGeometry x="280" y="20" width="110" height="70" as="geometry" />
         </mxCell>
         <mxCell id="eJ8lgUgesERh-Eou_Fsk-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;fillColor=#f8cecc;strokeColor=#b85450;dashed=1;dashPattern=1 1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=oval;startFill=0;" parent="dNxyNK7c78bLwvsdeMH5-20" target="eJ8lgUgesERh-Eou_Fsk-7" edge="1">
@@ -31,6 +31,9 @@
         </mxCell>
         <mxCell id="F9DmgFNN-CSLchGyO8Tj-16" value="订单中止" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-20">
           <mxGeometry x="660" y="40" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="F9DmgFNN-CSLchGyO8Tj-40" value="后管&lt;br&gt;订单管理" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-20">
+          <mxGeometry x="520" y="25" width="110" height="70" as="geometry" />
         </mxCell>
         <mxCell id="dNxyNK7c78bLwvsdeMH5-21" value="用户" style="swimlane;html=1;startSize=20;horizontal=0;" parent="dNxyNK7c78bLwvsdeMH5-19" vertex="1">
           <mxGeometry x="20" y="120" width="920" height="120" as="geometry" />
@@ -220,6 +223,13 @@
             <Array as="points">
               <mxPoint x="520" y="368" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="F9DmgFNN-CSLchGyO8Tj-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;fillColor=#f8cecc;strokeColor=#b85450;dashed=1;dashPattern=1 1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=oval;startFill=0;" edge="1" parent="1" target="F9DmgFNN-CSLchGyO8Tj-16">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="690" y="100" as="sourcePoint" />
+            <mxPoint x="270" y="125" as="targetPoint" />
+            <Array as="points" />
           </mxGeometry>
         </mxCell>
       </root>
