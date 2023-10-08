@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-08T16:08:26.829Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="BrmMqkV8LPBUSJPP-BTr" version="22.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-08T16:11:23.248Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="pgJ73iW5na3QJ55uU2eP" version="22.0.4" type="github">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
     <mxGraphModel dx="954" dy="537" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -123,10 +123,15 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="F9DmgFNN-CSLchGyO8Tj-32" value="&amp;nbsp; Y" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="F9DmgFNN-CSLchGyO8Tj-17">
+          <mxGeometry x="-0.5294" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="F9DmgFNN-CSLchGyO8Tj-21" value="订单状态：&lt;br style=&quot;--tw-border-spacing-x: 0; --tw-border-spacing-y: 0; --tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-pan-x: ; --tw-pan-y: ; --tw-pinch-zoom: ; --tw-scroll-snap-strictness: proximity; --tw-gradient-from-position: ; --tw-gradient-via-position: ; --tw-gradient-to-position: ; --tw-ordinal: ; --tw-slashed-zero: ; --tw-numeric-figure: ; --tw-numeric-spacing: ; --tw-numeric-fraction: ; --tw-ring-inset: ; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: rgb(59 130 246 / .5); --tw-ring-offset-shadow: 0 0 #0000; --tw-ring-shadow: 0 0 #0000; --tw-shadow: 0 0 #0000; --tw-shadow-colored: 0 0 #0000; --tw-blur: ; --tw-brightness: ; --tw-contrast: ; --tw-grayscale: ; --tw-hue-rotate: ; --tw-invert: ; --tw-saturate: ; --tw-sepia: ; --tw-drop-shadow: ; --tw-backdrop-blur: ; --tw-backdrop-brightness: ; --tw-backdrop-contrast: ; --tw-backdrop-grayscale: ; --tw-backdrop-hue-rotate: ; --tw-backdrop-invert: ; --tw-backdrop-opacity: ; --tw-backdrop-saturate: ; --tw-backdrop-sepia: ; border-color: var(--border-color);&quot;&gt;已停机" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-22">
           <mxGeometry x="763" y="18" width="77" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="F9DmgFNN-CSLchGyO8Tj-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;fillColor=#f8cecc;strokeColor=#b85450;dashed=1;dashPattern=1 1;startArrow=oval;startFill=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-22" source="F9DmgFNN-CSLchGyO8Tj-7" target="F9DmgFNN-CSLchGyO8Tj-10">
+        <mxCell id="F9DmgFNN-CSLchGyO8Tj-23" value="N" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;fillColor=#f8cecc;strokeColor=#b85450;dashed=1;dashPattern=1 1;startArrow=oval;startFill=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-22" source="F9DmgFNN-CSLchGyO8Tj-7" target="F9DmgFNN-CSLchGyO8Tj-10">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="339" y="42" as="sourcePoint" />
             <mxPoint x="356" y="42" as="targetPoint" />
@@ -147,6 +152,22 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="F9DmgFNN-CSLchGyO8Tj-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;fillColor=#f8cecc;strokeColor=#b85450;dashed=1;dashPattern=1 1;startArrow=oval;startFill=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-22" source="F9DmgFNN-CSLchGyO8Tj-16" target="F9DmgFNN-CSLchGyO8Tj-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="649" y="44" as="sourcePoint" />
+            <mxPoint x="250" y="30" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="700" y="-10" />
+              <mxPoint x="229" y="-10" />
+              <mxPoint x="229" y="32" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="F9DmgFNN-CSLchGyO8Tj-33" value="N" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="F9DmgFNN-CSLchGyO8Tj-31">
+          <mxGeometry x="-0.84" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="eJ8lgUgesERh-Eou_Fsk-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;fillColor=#f8cecc;strokeColor=#b85450;dashed=1;dashPattern=1 1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;startArrow=oval;startFill=0;" parent="1" target="eJ8lgUgesERh-Eou_Fsk-6" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="260" y="210" as="sourcePoint" />
@@ -155,30 +176,30 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="F9DmgFNN-CSLchGyO8Tj-5" value="&amp;nbsp;0点扣当日&lt;br&gt;电费&amp;amp;机位费" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="150" y="545" width="106" height="30" as="geometry" />
+          <mxGeometry x="430" y="575" width="106" height="30" as="geometry" />
         </mxCell>
         <mxCell id="F9DmgFNN-CSLchGyO8Tj-6" value="&amp;nbsp;0点扣当日&lt;br style=&quot;--tw-border-spacing-x: 0; --tw-border-spacing-y: 0; --tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-pan-x: ; --tw-pan-y: ; --tw-pinch-zoom: ; --tw-scroll-snap-strictness: proximity; --tw-gradient-from-position: ; --tw-gradient-via-position: ; --tw-gradient-to-position: ; --tw-ordinal: ; --tw-slashed-zero: ; --tw-numeric-figure: ; --tw-numeric-spacing: ; --tw-numeric-fraction: ; --tw-ring-inset: ; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: rgb(59 130 246 / .5); --tw-ring-offset-shadow: 0 0 #0000; --tw-ring-shadow: 0 0 #0000; --tw-shadow: 0 0 #0000; --tw-shadow-colored: 0 0 #0000; --tw-blur: ; --tw-brightness: ; --tw-contrast: ; --tw-grayscale: ; --tw-hue-rotate: ; --tw-invert: ; --tw-saturate: ; --tw-sepia: ; --tw-drop-shadow: ; --tw-backdrop-blur: ; --tw-backdrop-brightness: ; --tw-backdrop-contrast: ; --tw-backdrop-grayscale: ; --tw-backdrop-hue-rotate: ; --tw-backdrop-invert: ; --tw-backdrop-opacity: ; --tw-backdrop-saturate: ; --tw-backdrop-sepia: ; border-color: var(--border-color);&quot;&gt;电费&amp;amp;机位费" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="259" y="545" width="106" height="30" as="geometry" />
+          <mxGeometry x="539" y="575" width="106" height="30" as="geometry" />
         </mxCell>
         <mxCell id="eJ8lgUgesERh-Eou_Fsk-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;dashPattern=1 1;strokeWidth=2;fillColor=#f8cecc;strokeColor=#b85450;startArrow=oval;startFill=0;" parent="1" source="eJ8lgUgesERh-Eou_Fsk-9" target="eJ8lgUgesERh-Eou_Fsk-12" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="220" y="495" />
-              <mxPoint x="220" y="495" />
+              <mxPoint x="500" y="525" />
+              <mxPoint x="500" y="525" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="eJ8lgUgesERh-Eou_Fsk-9" value="+1日0点&lt;br&gt;订单生效" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
-          <mxGeometry x="120" y="480" width="100" height="30" as="geometry" />
+          <mxGeometry x="400" y="510" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="eJ8lgUgesERh-Eou_Fsk-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;dashPattern=1 2;strokeWidth=2;fillColor=#f8cecc;strokeColor=#b85450;startArrow=oval;startFill=0;" parent="1" source="eJ8lgUgesERh-Eou_Fsk-12" target="eJ8lgUgesERh-Eou_Fsk-13" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="eJ8lgUgesERh-Eou_Fsk-12" value="+2日18点&lt;br&gt;收益发放" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
-          <mxGeometry x="231" y="480" width="106" height="30" as="geometry" />
+          <mxGeometry x="511" y="510" width="106" height="30" as="geometry" />
         </mxCell>
         <mxCell id="eJ8lgUgesERh-Eou_Fsk-13" value="每月初扣除&lt;br&gt;电费+机位费" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
-          <mxGeometry x="346" y="480" width="120" height="30" as="geometry" />
+          <mxGeometry x="626" y="510" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="F9DmgFNN-CSLchGyO8Tj-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;fillColor=#f8cecc;strokeColor=#b85450;dashed=1;dashPattern=1 1;startArrow=oval;startFill=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="F9DmgFNN-CSLchGyO8Tj-14">
           <mxGeometry relative="1" as="geometry">
@@ -206,6 +227,11 @@
             <mxPoint x="800" y="313" as="sourcePoint" />
             <mxPoint x="825" y="313" as="targetPoint" />
             <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="F9DmgFNN-CSLchGyO8Tj-34" value="Y" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="F9DmgFNN-CSLchGyO8Tj-22">
+          <mxGeometry x="-0.52" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="F9DmgFNN-CSLchGyO8Tj-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;fillColor=#f8cecc;strokeColor=#b85450;dashed=1;dashPattern=1 1;startArrow=oval;startFill=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="F9DmgFNN-CSLchGyO8Tj-12">
